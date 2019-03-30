@@ -18,3 +18,4 @@ MIT
 * Computer vision
   * Image classification
     * [MNIST (using CNN+DNN)](computer-vision/image-classification/mnist.py)
+    * [CIFAR-10 (using CNN+DNN)](computer-vision/image-classification/cifar10.py)
